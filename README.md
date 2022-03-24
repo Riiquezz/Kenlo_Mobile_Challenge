@@ -37,12 +37,12 @@ Pode ser enviado o link para a recrutadora! :)
 
 
 # O objetivo deste teste é avaliar:
-organização;
-semântica;
-funcionamento e usabilidade
-uso e abuso das features das linguagens (Dart e Flutter);
-uso do Clean Architecture;
-performance do código;
+- organização;
+- semântica;
+- funcionamento e usabilidade
+- uso e abuso das features das linguagens (Dart e Flutter);
+- uso do Clean Architecture;
+- performance do código;
 
 
 # Testes
